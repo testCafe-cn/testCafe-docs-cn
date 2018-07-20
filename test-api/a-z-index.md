@@ -5,7 +5,7 @@ permalink: /documentation/test-api/a-z.html
 ---
 # A-Z Index
 
-This topic lists test API members in alphabetical order.
+以下是按首字母顺序来展示的api列表
 
 * [ClientFunction](obtaining-data-from-the-client/README.md#creating-client-functions)
     * [with](obtaining-data-from-the-client/README.md#overwriting-options)
